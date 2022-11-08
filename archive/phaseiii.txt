@@ -1,0 +1,13 @@
+Our initial exploratory data analysis revealed a lot of variation, but we believe that given select factors, we can find some correlation between Pitbull's success as an artist as indicative of unemployment trends in from 2009-2012.
+
+Hypothesis #1- There's a correlation between an award in a given year being Latin and the unemployment rate fluctuating by a certain amount from 2009 to 2012.
+- We will perform a pmf on the probability that given a song's award is Latin, the unemployment rate would fluctuate by a certain amount.
+- We will also utilize a correlation matrix.
+
+Hypothesis #2- Given a host of variables in our unemployment data-- age range of those unemployed, their gender, and the cumulative unemployment rate-- we can predict whether or not Pitbull would make it onto the Billboard Charts.
+ - We will do a train-test split logistical regression to see if we can train the data set on unemployment-- given a host of variables-- to see if we can predict Pitbull's chart success.
+
+Questions for reviewers-
+
+- How do we utilize the awards df better? Is a pmf function the best course of action, or should we utilize something else?
+- Instead of a train-test split, should we utilize K-folds for hypothesis #2, because our data set is so small?
