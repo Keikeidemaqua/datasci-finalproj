@@ -50,8 +50,8 @@
 48,2009,Latin Digital Download Artist of the Year,Won,9,1,2009-09-01
 49,2010,Latin Rhythm Airplay Song of the Year,Nominated,9,1,2010-09-01
 50,2010,"Latin Rhythm Airplay Artist of the Year, Solo",Nominated,9,1,2010-09-01
-51,2011,Top Latin Artist,Nominated,5,No,2011-05-01
-52,2011,Top Latin Song,Won,5,No,2011-05-01
+51,2011,Top Latin Artist,Nominated,5,0,2011-05-01
+52,2011,Top Latin Song,Won,5,0,2011-05-01
 53,2011,Latin Rhythm Airplay,Nominated,9,1,2011-09-01
 54,2011,Latin Digital Download of the Year,Nominated,9,1,2011-09-01
 55,2011,Latin Rhythm Albums,Nominated,9,1,2011-09-01
@@ -59,11 +59,11 @@
 57,2011,Social 50,Nominated,9,1,2011-09-01
 58,2011,Latin Rhythm Albums,Nominated,9,1,2011-09-01
 59,2011,"Hot Latin Song of the Year, Vocal Event",Won,9,1,2011-09-01
-60,2012,Top Latin Artist,Nominated,5,No,2012-05-01
-61,2012,Top Latin Song,Nominated,5,No,2012-05-01
-62,2012,Top Hot 100 Song,Nominated,5,No,2012-05-01
-63,2012,Top Rap Song,Nominated,5,No,2012-05-01
-64,2012,Top Radio Song,Won,5,No,2012-05-01
+60,2012,Top Latin Artist,Nominated,5,0,2012-05-01
+61,2012,Top Latin Song,Nominated,5,0,2012-05-01
+62,2012,Top Hot 100 Song,Nominated,5,0,2012-05-01
+63,2012,Top Rap Song,Nominated,5,0,2012-05-01
+64,2012,Top Radio Song,Won,5,0,2012-05-01
 65,2012,Latin Pop Songs Solo Artist of the Year,Nominated,9,1,2012-09-01
 66,2012,Latin Pop Song of the Year,Nominated,9,1,2012-09-01
 67,2012,Vocal Event Song of the Year,Nominated,9,1,2012-09-01
@@ -74,8 +74,8 @@
 72,2012,Latin Rhythm Song Solo Artist of the Year,Won,9,1,2012-09-01
 73,2012,"Songs Artist of the Year, Male",Won,9,1,2012-09-01
 74,2012,Latin Rhythm Album Solo Artist of the Year,Nominated,9,1,2012-09-01
-75,2013,Top Rap Artist,Nominated,5,No,2013-05-01
-76,2013,Top Latin Song,Nominated,5,No,2013-05-01
+75,2013,Top Rap Artist,Nominated,5,0,2013-05-01
+76,2013,Top Latin Song,Nominated,5,0,2013-05-01
 77,2013,Song of the Year,Won,9,1,2013-09-01
 78,2013,"Latin Rhythm Album of the Year, Solo",Nominated,9,1,2013-09-01
 79,2013,Latin Rhythm Song of the Year,Nominated,9,1,2013-09-01
@@ -85,8 +85,8 @@
 83,2013,Vocal Event Song of the Year,Nominated,9,1,2013-09-01
 84,2013,"Song Artist of the Year, Male",Nominated,9,1,2013-09-01
 85,2013,Airplay Song of the Year,Nominated,9,1,2013-09-01
-86,2014,Top Rap Artist,Nominated,5,No,2014-05-01
-87,2014,Top Rap Song,Won,5,No,2014-05-01
+86,2014,Top Rap Artist,Nominated,5,0,2014-05-01
+87,2014,Top Rap Song,Won,5,0,2014-05-01
 88,2014,Social Artist of the Year,Nominated,9,1,2014-09-01
 89,2016,"Latin Rhythm Albums Artist of the Year, Solo",Won,9,1,2016-09-01
 90,2016,Tour of the Year,Nominated,9,1,2016-09-01
